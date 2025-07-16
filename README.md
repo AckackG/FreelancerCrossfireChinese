@@ -1,2 +1,6 @@
-# FreelancerCrossfireChinese
-crossfire mod 中文汉化
+# Freelancer crossfire 2.0.1 中文汉化
+
+## 安装
+1. 首先，用启动器更新游戏，要确保能成功进入游戏一次。
+1. 复制汉化补丁的所有 .DLL 文件到安装目录/EXE 下，覆盖原文件。
+1. 启动游戏时，会提示有文件更新，永远不要点更新。(更新会还原英文的文件)
