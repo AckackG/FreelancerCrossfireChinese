@@ -1,4 +1,4 @@
-# Freelancer Crossfire 2.0.1 中文汉化补丁
+# Freelancer Crossfire 2.0.1 中文汉化补丁 v1.0
 
 本项目为《自由枪骑兵》（Freelancer）大型MOD **Crossfire 2.0.1** 的非官方中文汉化补丁。
 
@@ -20,6 +20,18 @@
 3.  **启动游戏**：
     *   完成汉化后，**永远不要**通过游戏启动器 **更新**（Update）。
     *   点击更新会将已汉化的文件还原为英文原版，导致汉化失效。
+
+## 汉化展示
+<table>
+  <tr>
+    <td><img width="400" alt="Freelancer Screenshot34" src="https://github.com/user-attachments/assets/ff507294-04a7-4051-ba50-08c6268a8ec5" /></td>
+    <td><img width="400" alt="Freelancer Screenshot89" src="https://github.com/user-attachments/assets/e42540e6-ad36-4d1b-bcbd-b69d7732281f" /></td>
+  </tr>
+  <tr>
+    <td><img width="400" alt="Freelancer Screenshot22" src="https://github.com/user-attachments/assets/8f0d61b0-0f16-45ce-b5cd-d61e9bfee1ce" /></td>
+    <td><img width="400" alt="Freelancer Screenshot20" src="https://github.com/user-attachments/assets/7d46a016-7a90-4d20-a02d-12fa5e389659" /></td>
+  </tr>
+</table>
 
 ## 致谢与参考
 
